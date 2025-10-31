@@ -1,14 +1,14 @@
 # Checklist de tareas
-- [ ] Instalar Vite
-- [ ] Instalar React
-- [ ] Nombre Proyecto
-- [ ] Estructura de Carpetas
-- [ ] Manejo de Estilos CSS
+- [x] Instalar Vite
+- [x] Instalar React
+- [x] Nombre Proyecto
+- [x] Estructura de Carpetas
+- [x] Manejo de Estilos CSS
 - [ ] Modulos
-- [ ] Dependencias
+- [x] Dependencias
 - [ ] Manejo de estado
 - [ ] Rutas
 - [ ] API's
-- [ ] Unit Tests
-- [ ] Pruebas e2e
-- [ ] Deploy (publicacion)- 
+- [x] Unit Tests
+- [x] Pruebas e2e
+- [ ] Deploy (publicacion)
