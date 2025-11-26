@@ -24,7 +24,7 @@ const LoginForm = ({
                 <div>
                     <div className="mt-2">
                         <FormControl className="w-full" variant="outlined">
-                            <InputLabel htmlFor="outlined-adornment-password">Contraseña</InputLabel>
+                            <InputLabel htmlFor="outlined-adornment-password">Password</InputLabel>
                                 <OutlinedInput
                                     //id="outlined-adornment-password"
                                     type={showPassword ? 'text' : 'password'}

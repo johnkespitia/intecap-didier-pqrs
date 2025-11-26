@@ -1,2 +1,3 @@
 import { useUserStore } from './userStore';
-export { useUserStore };
+import { usePQRSStore } from './PQRSStore';
+export { useUserStore, usePQRSStore };
